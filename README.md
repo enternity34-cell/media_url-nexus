@@ -1,2 +1,2 @@
 # media_url-nexus
-hanya berisi link media gambar untuk bot nexus
+hanya berisi link dan media gambar untuk bot nexus
